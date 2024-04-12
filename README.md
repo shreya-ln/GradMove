@@ -3,7 +3,7 @@ Recent college graduates often land their dream job with no idea of how to find 
 
 ### How to run
 #### Clone repository
-<code>https://github.com/shreya-ln/GradMove.git</code>
+<code>git clone https://github.com/shreya-ln/GradMove.git</code>
 
 #### Run with streamlit
 <code> streamlit run src/mainapp.py </code>
